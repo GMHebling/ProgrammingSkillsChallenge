@@ -50,7 +50,7 @@ int main () {
 
     int result = 0;
 
-    result = ConcatRemove(s, t, 8);
+    result = ConcatRemove(s, t, 7);
     if (result == 0){
         printf("yes\n");
     }
